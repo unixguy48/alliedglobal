@@ -1,0 +1,72 @@
+{
+    "AgricultureAmount": {
+        "screenshot": ".images\\agricultureamount-screenshot.png",
+        "source": "https://itdashboard.gov/",
+        "strategy": "css",
+        "type": "browser",
+        "value": "#agency-tiles-widget .row:nth-child(1) > .col-sm-4:nth-child(1) .h1"
+    },
+    "AgricultureName": {
+        "screenshot": ".images\\agriculturename-screenshot.png",
+        "source": "https://itdashboard.gov/",
+        "strategy": "css",
+        "type": "browser",
+        "value": "#agency-tiles-widget .row:nth-child(1) > .col-sm-4:nth-child(1) .h4"
+    },
+    "Bureau_Even": {
+        "screenshot": ".images\\bureau_even-screenshot.png",
+        "source": "https://itdashboard.gov/drupal/summary/010",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".even:nth-child(2) > .left:nth-child(2)"
+    },
+    "Bureau_Odd": {
+        "screenshot": ".images\\bureau_odd-screenshot.png",
+        "source": "https://itdashboard.gov/drupal/summary/010",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".odd:nth-child(3) > .left:nth-child(2)"
+    },
+    "CommerceAmount": {
+        "screenshot": ".images\\commerceamount-screenshot.png",
+        "source": "https://itdashboard.gov/",
+        "strategy": "css",
+        "type": "browser",
+        "value": "#agency-tiles-widget .row:nth-child(1) > .col-sm-4:nth-child(2) .h1"
+    },
+    "CommerceName": {
+        "screenshot": ".images\\commercename-screenshot.png",
+        "source": "https://itdashboard.gov/",
+        "strategy": "css",
+        "type": "browser",
+        "value": "#agency-tiles-widget .row:nth-child(1) > .col-sm-4:nth-child(2) .h4"
+    },
+    "DIVEIn": {
+        "screenshot": ".images\\divein-screenshot.png",
+        "source": "https://itdashboard.gov/",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//a[contains(.,'DIVE IN\u00a0')]"
+    },
+    "InvestmentTable": {
+        "screenshot": ".images\\investmenttable-screenshot.png",
+        "source": "https://itdashboard.gov/drupal/summary/010",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//div[@id='investments-table-object_wrapper']"
+    },
+    "Next_Button": {
+        "screenshot": ".images\\next_button-screenshot.png",
+        "source": "https://itdashboard.gov/drupal/summary/010",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//a[@id='investments-table-object_next']"
+    },
+    "Odd_Amount": {
+        "screenshot": ".images\\odd_amount-screenshot.png",
+        "source": "https://itdashboard.gov/drupal/summary/010",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".odd:nth-child(1) > .right"
+    }
+}

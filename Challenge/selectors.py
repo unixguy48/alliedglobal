@@ -1,0 +1,63 @@
+selectors = [
+    # Row 1
+    'css:#agency-tiles-widget .row:nth-child(1) > .col-sm-4:nth-child(1) .h4',
+    'css:#agency-tiles-widget .row:nth-child(1) > .col-sm-4:nth-child(1) .h1',
+    'css:#agency-tiles-widget .row:nth-child(1) > .col-sm-4:nth-child(2) .h4',
+    'css:#agency-tiles-widget .row:nth-child(1) > .col-sm-4:nth-child(2) .h1',
+    'css:#agency-tiles-widget .row:nth-child(1) > .col-sm-4:nth-child(3) .h4',
+    'css:#agency-tiles-widget .row:nth-child(1) > .col-sm-4:nth-child(3) .h1',
+    # Row 2
+    'css:#agency-tiles-widget .row:nth-child(2) > .col-sm-4:nth-child(1) .h4',
+    'css:#agency-tiles-widget .row:nth-child(2) > .col-sm-4:nth-child(1) .h1',
+    'css:#agency-tiles-widget .row:nth-child(2) > .col-sm-4:nth-child(2) .h4',
+    'css:#agency-tiles-widget .row:nth-child(2) > .col-sm-4:nth-child(2) .h1',
+    'css:#agency-tiles-widget .row:nth-child(2) > .col-sm-4:nth-child(3) .h4',
+    'css:#agency-tiles-widget .row:nth-child(2) > .col-sm-4:nth-child(3) .h1',
+    # Row 3
+    'css:#agency-tiles-widget .row:nth-child(3) > .col-sm-4:nth-child(1) .h4',
+    'css:#agency-tiles-widget .row:nth-child(3) > .col-sm-4:nth-child(1) .h1',
+    'css:#agency-tiles-widget .row:nth-child(3) > .col-sm-4:nth-child(2) .h4',
+    'css:#agency-tiles-widget .row:nth-child(3) > .col-sm-4:nth-child(2) .h1',
+    'css:#agency-tiles-widget .row:nth-child(3) > .col-sm-4:nth-child(3) .h4',
+    'css:#agency-tiles-widget .row:nth-child(3) > .col-sm-4:nth-child(3) .h1',
+    # Row 4
+    'css:#agency-tiles-widget .row:nth-child(4) > .col-sm-4:nth-child(1) .h4',
+    'css:#agency-tiles-widget .row:nth-child(4) > .col-sm-4:nth-child(1) .h1',
+    'css:#agency-tiles-widget .row:nth-child(4) > .col-sm-4:nth-child(2) .h4',
+    'css:#agency-tiles-widget .row:nth-child(4) > .col-sm-4:nth-child(2) .h1',
+    'css:#agency-tiles-widget .row:nth-child(4) > .col-sm-4:nth-child(3) .h4',
+    'css:#agency-tiles-widget .row:nth-child(4) > .col-sm-4:nth-child(3) .h1',
+    # Row 5
+    'css:#agency-tiles-widget .row:nth-child(5) > .col-sm-4:nth-child(1) .h4',
+    'css:#agency-tiles-widget .row:nth-child(5) > .col-sm-4:nth-child(1) .h1',
+    'css:#agency-tiles-widget .row:nth-child(5) > .col-sm-4:nth-child(2) .h4',
+    'css:#agency-tiles-widget .row:nth-child(5) > .col-sm-4:nth-child(2) .h1',
+    'css:#agency-tiles-widget .row:nth-child(5) > .col-sm-4:nth-child(3) .h4',
+    'css:#agency-tiles-widget .row:nth-child(5) > .col-sm-4:nth-child(3) .h1',
+    # Row 6
+    'css:#agency-tiles-widget .row:nth-child(6) > .col-sm-4:nth-child(1) .h4',
+    'css:#agency-tiles-widget .row:nth-child(6) > .col-sm-4:nth-child(1) .h1',
+    'css:#agency-tiles-widget .row:nth-child(6) > .col-sm-4:nth-child(2) .h4',
+    'css:#agency-tiles-widget .row:nth-child(6) > .col-sm-4:nth-child(2) .h1',
+    'css:#agency-tiles-widget .row:nth-child(6) > .col-sm-4:nth-child(3) .h4',
+    'css:#agency-tiles-widget .row:nth-child(6) > .col-sm-4:nth-child(3) .h1',
+    # Row 7
+    'css:#agency-tiles-widget .row:nth-child(7) > .col-sm-4:nth-child(1) .h4',
+    'css:#agency-tiles-widget .row:nth-child(7) > .col-sm-4:nth-child(1) .h1',
+    'css:#agency-tiles-widget .row:nth-child(7) > .col-sm-4:nth-child(2) .h4',
+    'css:#agency-tiles-widget .row:nth-child(7) > .col-sm-4:nth-child(2) .h1',
+    'css:#agency-tiles-widget .row:nth-child(7) > .col-sm-4:nth-child(3) .h4',
+    'css:#agency-tiles-widget .row:nth-child(7) > .col-sm-4:nth-child(3) .h1',
+    # Row 8
+    'css:#agency-tiles-widget .row:nth-child(8) > .col-sm-4:nth-child(1) .h4',
+    'css:#agency-tiles-widget .row:nth-child(8) > .col-sm-4:nth-child(1) .h1',
+    'css:#agency-tiles-widget .row:nth-child(8) > .col-sm-4:nth-child(2) .h4',
+    'css:#agency-tiles-widget .row:nth-child(8) > .col-sm-4:nth-child(2) .h1',
+    'css:#agency-tiles-widget .row:nth-child(8) > .col-sm-4:nth-child(3) .h4',
+    'css:#agency-tiles-widget .row:nth-child(8) > .col-sm-4:nth-child(3) .h1',
+    # Row 9
+    'css:#agency-tiles-widget .row:nth-child(9) > .col-sm-4:nth-child(1) .h4',
+    'css:#agency-tiles-widget .row:nth-child(9) > .col-sm-4:nth-child(1) .h1',
+    'css:#agency-tiles-widget .row:nth-child(9) > .col-sm-4:nth-child(2) .h4',
+    'css:#agency-tiles-widget .row:nth-child(9) > .col-sm-4:nth-child(2) .h1',
+]
